@@ -11,3 +11,13 @@
 - Enhanced Debugging Skills : Gain confidence in troubleshooting and refining code, with an ability to articulate problems clearly and implement AI-driven solutions effectively.
 
 - Automation Proficiency : Develop skills to leverage AI for automating coding tasks, leading to more structured and error-free code.
+
+## Tasks
+
+0. Debugging - Python Factorial
+1. Debugging - Python Arguments
+2. Debugging - HTML / Javascript
+3. Debugging - Python Mines
+4. Documentation - Python Factorial
+5. Error Handling - Python Checkbook
+6. Debugging - Tic Tac Toe Python
